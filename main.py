@@ -6,6 +6,8 @@ import plotly.graph_objs as go
 import requests
 import json
 
+# json
+
 
 # Add a title and intro text
 st.title('Earthquake Data Explorer')
